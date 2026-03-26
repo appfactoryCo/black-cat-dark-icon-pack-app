@@ -1,7 +1,7 @@
 # Black Cat Dark Icon Pack & Wallpapers
 
 Minimal, sleek, and stealthy **AMOLED icon pack** with matching wallpapers.  
-Designed for a clean, premium dark home screen aesithetics.
+Designed for a clean premium dark home screen aesithetics.
 
 ---
 
